@@ -80,7 +80,8 @@ body {
 /* Wedding Event Style */
 .ww-wedding-event ul {
   list-style: none;
-  padding-left: 0; }
+  padding-left: 0;
+color: #5c5b5b; }
 
 /* Photo Gallery Style */
 .ww-photo-gallery .ww-category-filter a {
